@@ -6,4 +6,5 @@ Examples:
 uk_mini.jpg:  
 ![uk_mini.jpg](uk_mini.jpg)  
 uk.jpg:  
-![uk.jpg](uk.jpg)
+![uk.jpg](uk.jpg)  
+###### Images courtesy of [NOAA/National Data Buoy Center](https://www.ndbc.noaa.gov)
